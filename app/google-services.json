@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "484365959923",
+    "project_id": "otp-verification-ef624",
+    "storage_bucket": "otp-verification-ef624.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484365959923:android:7875e64254b85ce9562d86",
+        "android_client_info": {
+          "package_name": "com.cadenza.otpactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484365959923-ivjjhe1k6ihvu7vi4av58vb7nq85jmpd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cadenza.otpactivity",
+            "certificate_hash": "92f5262406fe9c9d95427005af4a371c041e1e14"
+          }
+        },
+        {
+          "client_id": "484365959923-93kqcavs6iam3phl0555gfkaar7rt4et.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOFBzYUtEu7fPuATH7UD50glm3Rh6sbwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484365959923-93kqcavs6iam3phl0555gfkaar7rt4et.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
